@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("day3.txt", header=None)
+data = pd.read_csv("input/day3.txt", header=None)
 instructions = data.iloc[0, 0]
 
 x, y = 0, 0

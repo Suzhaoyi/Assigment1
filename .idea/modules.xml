@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Assigment1.iml" filepath="$PROJECT_DIR$/.idea/Assigment1.iml" />
+      <module fileurl="file://$USER_HOME$/PyCharmMiscProject/.idea/PyCharmMiscProject.iml" filepath="$USER_HOME$/PyCharmMiscProject/.idea/PyCharmMiscProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" filepath="$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../advent_of_code_2025/.idea/advent_of_code_2025.iml" filepath="$PROJECT_DIR$/../advent_of_code_2025/.idea/advent_of_code_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../palindrome_practice/.idea/palindrome_practice.iml" filepath="$PROJECT_DIR$/../palindrome_practice/.idea/palindrome_practice.iml" />
     </modules>
   </component>
 </project>

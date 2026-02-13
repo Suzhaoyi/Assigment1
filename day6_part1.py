@@ -18,7 +18,7 @@ def apply_instruction_df(instruction: str):
         x2, y2 = int(coord2[0]), int(coord2[1])
         lights_df.loc[x1:x2, y1:y2] = (1 if action == "on" else 0)
 
-with open("day6.txt", "r") as f:
+with open("input/day6.txt", "r") as f:
     instructions = f.readlines()
 
 for instr in instructions:

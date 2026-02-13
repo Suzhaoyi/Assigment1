@@ -21,7 +21,7 @@ def apply_instruction_df(instruction: str):
         else:
             lights_df.loc[x1:x2, y1:y2] = (lights_df.loc[x1:x2, y1:y2] - 1).clip(lower=0)
 
-with open("day6.txt", "r") as f:
+with open("input/day6.txt", "r") as f:
     instructions = f.readlines()
 
 for instr in instructions:
